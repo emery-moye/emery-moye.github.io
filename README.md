@@ -4,7 +4,7 @@
 - https://www.linkedin.com/in/emerymoye/
 
 # Education
--Duquesne University
+- Duquesne University
 
 # Work History
 - Research Intern @Monochrome
